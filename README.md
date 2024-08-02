@@ -3,11 +3,15 @@ A Global Analysis of Software Companies all Over the World.
 
 # Technology Alternatives
 
+# Software Landscape Analysis
+
 | Category                   | Popular Technology (USA/China)                  | Origin Country     | Headquarters                         | Top Alternative (Non-USA/China)   | Origin Country    | Headquarters                         |
 |----------------------------|-------------------------------------------------|--------------------|--------------------------------------|------------------------------------|-------------------|--------------------------------------|
-| **Operating Systems**      | Microsoft Windows                            | USA 🇺🇸            | Redmond, Washington, USA             |               |           |                  |
+| **Operating Systems**      | Microsoft Windows 🪟                            | USA 🇺🇸            | Redmond, Washington, USA             | Ubuntu (Canonical) 🐧              | UK 🇬🇧            | London, England, UK                  |
 |                            | macOS (Apple) 🍏                                | USA 🇺🇸            | Cupertino, California, USA           |                                    |                   |                                      |
 |                            | Linux 🐧                                        | Finland 🇫🇮        | N/A (Open Source Community)          |                                    |                   |                                      |
+|                            | Android                                        | USA 🇺🇸            | Mountain View, California, USA       | LineageOS                          | Open Source       | N/A (Community)                      |
+|                            | iOS (Apple)                                    | USA 🇺🇸            | Cupertino, California, USA           |                                    |                   |                                      |
 | **Internet Browsers**      | Google Chrome 🌐                                | USA 🇺🇸            | Mountain View, California, USA       | Opera 🛳️                           | Norway 🇳🇴         | Oslo, Norway                         |
 |                            | Mozilla Firefox 🦊                              | USA 🇺🇸            | Mountain View, California, USA       |                                    |                   |                                      |
 |                            | Safari (Apple) 🧭                               | USA 🇺🇸            | Cupertino, California, USA           |                                    |                   |                                      |
@@ -27,4 +31,7 @@ A Global Analysis of Software Companies all Over the World.
 |                            | Google Cloud Platform 🌤️                       | USA 🇺🇸            | Mountain View, California, USA       |                                    |                   |                                      |
 | **E-commerce**             | Amazon 🛒                                       | USA 🇺🇸            | Seattle, Washington, USA             | Rakuten 🛒                         | Japan 🇯🇵          | Tokyo, Japan                         |
 |                            | Alibaba 🛍️                                     | China 🇨🇳          | Hangzhou, Zhejiang, China            | Flipkart 🛍️                        | India 🇮🇳         | Bangalore, Karnataka, India          |
+| **Email Services**         | Gmail (Google) 📧                               | USA 🇺🇸            | Mountain View, California, USA       | ProtonMail 📧                      | Switzerland 🇨🇭    | Geneva, Switzerland                  |
+|                            | Outlook (Microsoft) 📧                           | USA 🇺🇸            | Redmond, Washington, USA             | Tutanota 📧                        | Germany 🇩🇪       | Hanover, Germany                     |
+
 
