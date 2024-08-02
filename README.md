@@ -1,11 +1,7 @@
 # Software-Landscape-Analysis
 A Global Analysis of Software Companies all Over the World.
 
-# Technology Alternatives
-
-# Software Landscape Analysis
-
-# Software Landscape Analysis
+## Software Landscape Analysis and Technology Alternatives
 
 | Category                   | Popular Technology (USA/China)                  | Origin Country     | Headquarters                         | Top Alternative (Non-USA/China)   | Origin Country    | Headquarters                         |
 |----------------------------|-------------------------------------------------|--------------------|--------------------------------------|------------------------------------|-------------------|--------------------------------------|
