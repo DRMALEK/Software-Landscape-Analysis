@@ -5,12 +5,14 @@ A Global Analysis of Software Companies all Over the World.
 
 # Software Landscape Analysis
 
+# Software Landscape Analysis
+
 | Category                   | Popular Technology (USA/China)                  | Origin Country     | Headquarters                         | Top Alternative (Non-USA/China)   | Origin Country    | Headquarters                         |
 |----------------------------|-------------------------------------------------|--------------------|--------------------------------------|------------------------------------|-------------------|--------------------------------------|
 | **Operating Systems**      | Microsoft Windows 🪟                            | USA 🇺🇸            | Redmond, Washington, USA             | Ubuntu (Canonical) 🐧              | UK 🇬🇧            | London, England, UK                  |
 |                            | macOS (Apple) 🍏                                | USA 🇺🇸            | Cupertino, California, USA           |                                    |                   |                                      |
 |                            | Linux 🐧                                        | Finland 🇫🇮        | N/A (Open Source Community)          |                                    |                   |                                      |
-|                            | Android                                        | USA 🇺🇸            | Mountain View, California, USA       | LineageOS                          | Open Source       | N/A (Community)                      |
+|                            | Android                                         | USA 🇺🇸            | Mountain View, California, USA       | LineageOS                          | Open Source       | N/A (Community)                      |
 |                            | iOS (Apple)                                    | USA 🇺🇸            | Cupertino, California, USA           |                                    |                   |                                      |
 | **Internet Browsers**      | Google Chrome 🌐                                | USA 🇺🇸            | Mountain View, California, USA       | Opera 🛳️                           | Norway 🇳🇴         | Oslo, Norway                         |
 |                            | Mozilla Firefox 🦊                              | USA 🇺🇸            | Mountain View, California, USA       |                                    |                   |                                      |
@@ -33,5 +35,9 @@ A Global Analysis of Software Companies all Over the World.
 |                            | Alibaba 🛍️                                     | China 🇨🇳          | Hangzhou, Zhejiang, China            | Flipkart 🛍️                        | India 🇮🇳         | Bangalore, Karnataka, India          |
 | **Email Services**         | Gmail (Google) 📧                               | USA 🇺🇸            | Mountain View, California, USA       | ProtonMail 📧                      | Switzerland 🇨🇭    | Geneva, Switzerland                  |
 |                            | Outlook (Microsoft) 📧                           | USA 🇺🇸            | Redmond, Washington, USA             | Tutanota 📧                        | Germany 🇩🇪       | Hanover, Germany                     |
+| **Game Development**       | Epic Games (Unreal Engine) 🎮                    | USA 🇺🇸            | Cary, North Carolina, USA            | Crytek (CryEngine) 🎮              | Germany 🇩🇪       | Frankfurt, Germany                   |
+|                            | Activision Blizzard (Call of Duty) 🎮           | USA 🇺🇸            | Santa Monica, California, USA        | Ubisoft 🎮                         | France 🇫🇷         | Montreuil, France                   |
+|                            | **Masomo** (Mobile Game Development) 🎮        | Turkey 🇹🇷         | Istanbul, Turkey                     | Gameloft 🎮                        | France 🇫🇷         | Paris, France                        |
+|                            | **Netmarble Turkey** (Mobile Game Development) 🎮| Turkey 🇹🇷         | Istanbul, Turkey                     | Supercell 🎮                       | Finland 🇫🇮        | Helsinki, Finland                     |
 
 
