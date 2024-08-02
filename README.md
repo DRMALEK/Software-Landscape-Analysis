@@ -5,7 +5,7 @@ A Global Analysis of Software Companies all Over the World.
 
 | Category                   | Popular Technology (USA/China)                  | Origin Country     | Headquarters                         | Top Alternative (Non-USA/China)   | Origin Country    | Headquarters                         |
 |----------------------------|-------------------------------------------------|--------------------|--------------------------------------|------------------------------------|-------------------|--------------------------------------|
-| **Operating Systems**      | Microsoft Windows 🪟                            | USA 🇺🇸            | Redmond, Washington, USA             | Ubuntu (Canonical) 🐧              | UK 🇬🇧            | London, England, UK                  |
+| **Operating Systems**      | Microsoft Windows                            | USA 🇺🇸            | Redmond, Washington, USA             |               |           |                  |
 |                            | macOS (Apple) 🍏                                | USA 🇺🇸            | Cupertino, California, USA           |                                    |                   |                                      |
 |                            | Linux 🐧                                        | Finland 🇫🇮        | N/A (Open Source Community)          |                                    |                   |                                      |
 | **Internet Browsers**      | Google Chrome 🌐                                | USA 🇺🇸            | Mountain View, California, USA       | Opera 🛳️                           | Norway 🇳🇴         | Oslo, Norway                         |
