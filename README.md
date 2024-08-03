@@ -2,7 +2,7 @@
 
 A Global Analysis of Software Companies all Over the World. 
 
-This project an AI started, but right, require you the human to edit and fact check yet 🧍🤗🤖
+This project has been started by an AI, but right now, it needs you, the human to edit and fact checking it 🧍🤗🤖
 
 ## Software Landscape Analysis and Technology Alternatives
 
