@@ -1,6 +1,8 @@
 # Software-Landscape-Analysis
 
-A Global Analysis of Software Companies all Over the World; this project an AI started, but right, require you the human to edit and fact check yet :) 
+A Global Analysis of Software Companies all Over the World. 
+
+This project an AI started, but right, require you the human to edit and fact check yet 🧍🤗🤖
 
 ## Software Landscape Analysis and Technology Alternatives
 
