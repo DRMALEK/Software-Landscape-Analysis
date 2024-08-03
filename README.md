@@ -57,3 +57,10 @@ This project has been started by an AI, but right now, it needs you, the human t
 | | Citrix 🖥️ | USA 🇺🇸 | Fort Lauderdale, Florida, USA | SUSE 🖥️ | Germany 🇩🇪 | Nuremberg, Germany |
 | **Content Management Systems (CMS)** | WordPress 🌐 | USA 🇺🇸 | San Francisco, California, USA | TYPO3 🌍 | Germany 🇩🇪 | Düsseldorf, Germany |
 | | Drupal 🌍 | Open Source | N/A (Community) | Joomla 🌐 | Open Source | N/A (Community) |
+
+Contributing 🤝
+
+If there's anything you think should be included here, you can submit an issue and I'll check it out.
+Author
+
+@DRMALEK
